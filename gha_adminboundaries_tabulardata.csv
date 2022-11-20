@@ -1,520 +1,261 @@
-﻿OBJECTID *,Shape *,admin2Name_en,admin2Pcode,admin2RefName,admin2AltName1_en,admin2AltName2_en,admin1Name_en,admin1Pcode,admin0Name_en,admin0Pcode,date,validOn,validTo,Shape_Length,Shape_Area,region_value,district_value,,,,,,,,,,,,,,,,,,,,,,,
-49,Polygon,Asunafo North Municipal,GH0101,<Null>,<Null>,<Null>,Ahafo,GH01,Ghana,GH,26.10.18,08.03.21,<Null>,1.766499,0.115468,5,1.628178149,,,,,,,,,,,,,,,,,,,,,,,
-50,Polygon,Asunafo South,GH0102,<Null>,<Null>,<Null>,Ahafo,GH01,Ghana,GH,26.10.18,08.03.21,<Null>,1.992593,0.075519,5,8.764650634,,,,,,,,,,,,,,,,,,,,,,,
-52,Polygon,Asutifi North,GH0103,<Null>,<Null>,<Null>,Ahafo,GH01,Ghana,GH,26.10.18,08.03.21,<Null>,1.52901,0.076589,5,1.273071813,,,,,,,,,,,,,,,,,,,,,,,
-53,Polygon,Asutifi South,GH0104,<Null>,<Null>,<Null>,Ahafo,GH01,Ghana,GH,26.10.18,08.03.21,<Null>,1.607569,0.048876,5,2.826447092,,,,,,,,,,,,,,,,,,,,,,,
-229,Polygon,Tano North Municipal,GH0105,<Null>,<Null>,<Null>,Ahafo,GH01,Ghana,GH,26.10.18,08.03.21,<Null>,1.387174,0.068575,5,9.153849883,,,,,,,,,,,,,,,,,,,,,,,
-230,Polygon,Tano South Municipal,GH0106,<Null>,<Null>,<Null>,Ahafo,GH01,Ghana,GH,26.10.18,08.03.21,<Null>,1.13154,0.040031,5,1.623852222,,,,,,,,,,,,,,,,,,,,,,,
-12,Polygon,Adansi Akrofuom,GH0201,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.100275,0.046413,2,9.756047207,,,,,,,,,,,,,,,,,,,,,,,
-13,Polygon,Adansi Asokwa,GH0202,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.510252,0.048659,2,5.551739261,,,,,,,,,,,,,,,,,,,,,,,
-14,Polygon,Adansi North,GH0203,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.792272,0.021093,2,1.901240405,,,,,,,,,,,,,,,,,,,,,,,
-15,Polygon,Adansi South,GH0204,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.596134,0.062162,2,4.673078926,,,,,,,,,,,,,,,,,,,,,,,
-18,Polygon,Afigya Kwabre North,GH0205,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.755655,0.015282,2,3.282239957,,,,,,,,,,,,,,,,,,,,,,,
-19,Polygon,Afigya Kwabre South,GH0206,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.667102,0.018272,2,1.370234608,,,,,,,,,,,,,,,,,,,,,,,
-23,Polygon,Ahafo Ano North,GH0207,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.228005,0.04857,2,3.605201668,,,,,,,,,,,,,,,,,,,,,,,
-24,Polygon,Ahafo Ano South East,GH0208,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.285119,0.056133,2,7.499948225,,,,,,,,,,,,,,,,,,,,,,,
-25,Polygon,Ahafo Ano South West,GH0209,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.375148,0.041295,2,1.584699677,,,,,,,,,,,,,,,,,,,,,,,
-33,Polygon,Amansie Central,GH0210,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.81951,0.069429,2,3.812927504,,,,,,,,,,,,,,,,,,,,,,,
-34,Polygon,Amansie South,GH0211,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.487674,0.048496,2,0.322782881,,,,,,,,,,,,,,,,,,,,,,,
-35,Polygon,Amansie West,GH0212,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.354173,0.052149,2,4.553877329,,,,,,,,,,,,,,,,,,,,,,,
-38,Polygon,Asante Akim Central Municipal,GH0213,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.967704,0.024551,2,7.595411726,,,,,,,,,,,,,,,,,,,,,,,
-39,Polygon,Asante Akim North,GH0214,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,2.084084,0.092119,2,2.475766143,,,,,,,,,,,,,,,,,,,,,,,
-40,Polygon,Asante Akim South,GH0215,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.804452,0.094316,2,1.218039138,,,,,,,,,,,,,,,,,,,,,,,
-44,Polygon,Asokore Mampong Municipal,GH0216,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.225216,0.001943,2,4.264937044,,,,,,,,,,,,,,,,,,,,,,,
-45,Polygon,Asokwa  Municipal,GH0217,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.21449,0.002194,2,8.100217106,,,,,,,,,,,,,,,,,,,,,,,
-57,Polygon,Atwima Kwanwoma,GH0218,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.792084,0.02057,2,8.869525166,,,,,,,,,,,,,,,,,,,,,,,
-58,Polygon,Atwima Mponua,GH0219,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,2.602795,0.153979,2,1.850385288,,,,,,,,,,,,,,,,,,,,,,,
-59,Polygon,Atwima Nwabiagya North,GH0220,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.746633,0.017399,2,1.076195694,,,,,,,,,,,,,,,,,,,,,,,
-60,Polygon,Atwima Nwabiagya South,GH0221,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.958894,0.029969,2,3.781771884,,,,,,,,,,,,,,,,,,,,,,,
-71,Polygon,Bekwai Municipal,GH0222,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.259927,0.04378,2,6.508287177,,,,,,,,,,,,,,,,,,,,,,,
-87,Polygon,Bosome Freho,GH0223,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.548999,0.046484,2,2.794206631,,,,,,,,,,,,,,,,,,,,,,,
-88,Polygon,Bosomtwe,GH0224,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.939224,0.034564,2,1.106483134,,,,,,,,,,,,,,,,,,,,,,,
-105,Polygon,Ejisu Municipal,GH0225,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.298109,0.033648,2,2.823227414,,,,,,,,,,,,,,,,,,,,,,,
-106,Polygon,Ejura-Sekyedumase,GH0226,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.883941,0.109806,2,9.288678479,,,,,,,,,,,,,,,,,,,,,,,
-129,Polygon,Juaben Municipal,GH0227,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.75763,0.014007,2,0.050205503,,,,,,,,,,,,,,,,,,,,,,,
-149,Polygon,Kumasi Metropolitan,GH0228,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.188733,0.00177,2,2.138831961,,,,,,,,,,,,,,,,,,,,,,,
-151,Polygon,Kwabre East,GH0229,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.48463,0.010067,2,3.484302875,,,,,,,,,,,,,,,,,,,,,,,
-152,Polygon,Kwadaso Municipal,GH0230,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.396433,0.005244,2,9.842883711,,,,,,,,,,,,,,,,,,,,,,,
-165,Polygon,Mampong Municipal,GH0231,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.355819,0.054887,2,0.701210997,,,,,,,,,,,,,,,,,,,,,,,
-189,Polygon,Obuasi East,GH0232,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.351262,0.006128,2,9.985665334,,,,,,,,,,,,,,,,,,,,,,,
-190,Polygon,Obuasi Municipal,GH0233,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.541096,0.011908,2,5.5365795,,,,,,,,,,,,,,,,,,,,,,,
-191,Polygon,Offinso Municipal,GH0234,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.233206,0.047966,2,0.972438743,,,,,,,,,,,,,,,,,,,,,,,
-192,Polygon,Offinso North,GH0235,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.970837,0.07751,2,0.989163368,,,,,,,,,,,,,,,,,,,,,,,
-193,Polygon,Oforikrom Municipal,GH0236,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.311992,0.003708,2,6.587941828,,,,,,,,,,,,,,,,,,,,,,,
-196,Polygon,Old Tafo Municipal,GH0237,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.254141,0.002378,2,0.130079017,,,,,,,,,,,,,,,,,,,,,,,
-208,Polygon,Sekyere Afram Plains North,GH0238,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,3.943415,0.288754,2,2.104856594,,,,,,,,,,,,,,,,,,,,,,,
-209,Polygon,Sekyere Central,GH0239,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,2.060053,0.133604,2,1.707304953,,,,,,,,,,,,,,,,,,,,,,,
-210,Polygon,Sekyere East,GH0240,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.794588,0.019563,2,0.478887231,,,,,,,,,,,,,,,,,,,,,,,
-211,Polygon,Sekyere Kumawu,GH0241,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.332959,0.047181,2,0.440010428,,,,,,,,,,,,,,,,,,,,,,,
-212,Polygon,Sekyere South,GH0242,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.050891,0.034097,2,5.109852468,,,,,,,,,,,,,,,,,,,,,,,
-222,Polygon,Suame Municipal,GH0243,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.253474,0.002261,2,1.089236782,,,,,,,,,,,,,,,,,,,,,,,
-68,Polygon,Banda,GH0301,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,2.588314,0.188584,7,8.328178028,,,,,,,,,,,,,,,,,,,,,,,
-72,Polygon,Berekum East Municipal,GH0302,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.113233,0.037846,7,3.954070677,,,,,,,,,,,,,,,,,,,,,,,
-73,Polygon,Berekum West,GH0303,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.050724,0.032876,7,4.757514654,,,,,,,,,,,,,,,,,,,,,,,
-98,Polygon,Dormaa East,GH0304,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.041038,0.046684,7,9.499286715,,,,,,,,,,,,,,,,,,,,,,,
-99,Polygon,Dormaa Municipal,GH0305,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.714024,0.099008,7,1.559412607,,,,,,,,,,,,,,,,,,,,,,,
-100,Polygon,Dormaa West,GH0306,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.015581,0.031122,7,5.90011585,,,,,,,,,,,,,,,,,,,,,,,
-124,Polygon,Jaman North,GH0307,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.443548,0.084486,7,7.286747326,,,,,,,,,,,,,,,,,,,,,,,
-125,Polygon,Jaman South Municipal,GH0308,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.181887,0.061861,7,3.216313309,,,,,,,,,,,,,,,,,,,,,,,
-224,Polygon,Sunyani Municipal,GH0309,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.253477,0.041482,7,2.398411386,,,,,,,,,,,,,,,,,,,,,,,
-225,Polygon,Sunyani West,GH0310,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.750297,0.086753,7,2.07948388,,,,,,,,,,,,,,,,,,,,,,,
-226,Polygon,Tain,GH0311,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.975968,0.150018,7,7.073415733,,,,,,,,,,,,,,,,,,,,,,,
-253,Polygon,Wenchi Municipal,GH0312,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,2.115814,0.093872,7,8.765928056,,,,,,,,,,,,,,,,,,,,,,,
-54,Polygon,Atebubu Amantin,GH0401,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,2.531259,0.215176,4,1.85294741,,,,,,,,,,,,,,,,,,,,,,,
-138,Polygon,Kintampo North Municipal,GH0402,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,3.355246,0.401437,4,9.305330158,,,,,,,,,,,,,,,,,,,,,,,
-139,Polygon,Kintampo South,GH0403,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,2.056578,0.124164,4,8.085327099,,,,,,,,,,,,,,,,,,,,,,,
-179,Polygon,Nkoranza North,GH0404,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,1.896073,0.113674,4,7.192333703,,,,,,,,,,,,,,,,,,,,,,,
-180,Polygon,Nkoranza South,GH0405,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,1.391923,0.075597,4,2.32636012,,,,,,,,,,,,,,,,,,,,,,,
-198,Polygon,Pru East,GH0406,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,1.798372,0.135544,4,9.499942387,,,,,,,,,,,,,,,,,,,,,,,
-199,Polygon,Pru West,GH0407,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,1.827647,0.128731,4,6.431614964,,,,,,,,,,,,,,,,,,,,,,,
-213,Polygon,Sene East,GH0408,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,3.296603,0.360019,4,8.28056258,,,,,,,,,,,,,,,,,,,,,,,
-214,Polygon,Sene West,GH0409,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,2.800573,0.267511,4,3.594781627,,,,,,,,,,,,,,,,,,,,,,,
-233,Polygon,Techiman Municipal,GH0410,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,1.138358,0.05318,4,2.812989638,,,,,,,,,,,,,,,,,,,,,,,
-234,Polygon,Techiman North,GH0411,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,0.969466,0.031929,4,4.66658962,,,,,,,,,,,,,,,,,,,,,,,
-6,Polygon,Abura-Asebu-Kwamankese,GH0501,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.206454,0.030763,1,7.875793533,,,,,,,,,,,,,,,,,,,,,,,
-20,Polygon,Agona East,GH0502,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.760285,0.026731,1,9.617710479,,,,,,,,,,,,,,,,,,,,,,,
-21,Polygon,Agona West Municipal,GH0503,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.966486,0.029071,1,7.26189914,,,,,,,,,,,,,,,,,,,,,,,
-27,Polygon,Ajumako-Enyan-Essiam,GH0504,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.163009,0.042569,1,9.064765251,,,,,,,,,,,,,,,,,,,,,,,
-43,Polygon,Asikuma-Odoben-Brakwa,GH0505,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.227706,0.063121,1,9.230261838,,,,,,,,,,,,,,,,,,,,,,,
-46,Polygon,Assin Fosu,GH0506,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.831952,0.022779,1,8.296495394,,,,,,,,,,,,,,,,,,,,,,,
-47,Polygon,Assin North,GH0507,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.698386,0.059275,1,6.952550062,,,,,,,,,,,,,,,,,,,,,,,
-48,Polygon,Assin South,GH0508,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.521507,0.089848,1,0.534250148,,,,,,,,,,,,,,,,,,,,,,,
-61,Polygon,Awutu Senya,GH0509,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.881995,0.019978,1,2.363894245,,,,,,,,,,,,,,,,,,,,,,,
-62,Polygon,Awutu Senya East,GH0510,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.581838,0.008794,1,4.568831643,,,,,,,,,,,,,,,,,,,,,,,
-92,Polygon,Cape Coast Metropolitan,GH0511,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.633246,0.009962,1,3.948105664,,,,,,,,,,,,,,,,,,,,,,,
-104,Polygon,Effutu Municipal,GH0512,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.388769,0.006965,1,7.833274729,,,,,,,,,,,,,,,,,,,,,,,
-107,Polygon,Ekumfi,GH0513,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.719512,0.022568,1,5.387111002,,,,,,,,,,,,,,,,,,,,,,,
-117,Polygon,Gomoa Central,GH0514,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.518021,0.009903,1,3.260828048,,,,,,,,,,,,,,,,,,,,,,,
-118,Polygon,Gomoa East,GH0515,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.344693,0.044071,1,3.148056136,,,,,,,,,,,,,,,,,,,,,,,
-119,Polygon,Gomoa West,GH0516,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.952189,0.027507,1,4.787202607,,,,,,,,,,,,,,,,,,,,,,,
-140,Polygon,Komenda-Edina-Eguafo-Abirem Municipal,GH0517,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.859382,0.036922,1,0.093948368,,,,,,,,,,,,,,,,,,,,,,,
-167,Polygon,Mfantseman Municipal,GH0518,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.064279,0.024523,1,1.603294442,,,,,,,,,,,,,,,,,,,,,,,
-239,Polygon,Twifo Atti-Morkwa,GH0519,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.535576,0.07806,1,0.762213134,,,,,,,,,,,,,,,,,,,,,,,
-240,Polygon,Twifo Hemang Lower Denkyira,GH0520,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.37578,0.046985,1,2.136073897,,,,,,,,,,,,,,,,,,,,,,,
-241,Polygon,Upper Denkyira East Municipal,GH0521,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.435575,0.04098,1,5.073344177,,,,,,,,,,,,,,,,,,,,,,,
-242,Polygon,Upper Denkyira West,GH0522,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.524246,0.047325,1,4.550746651,,,,,,,,,,,,,,,,,,,,,,,
-4,Polygon,Abuakwa North,GH0601,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.532117,0.012974,3,2.967883016,,,,,,,,,,,,,,,,,,,,,,,
-5,Polygon,Abuakwa South,GH0602,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.891112,0.028549,3,5.555440195,,,,,,,,,,,,,,,,,,,,,,,
-8,Polygon,Achiase,GH0603,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.979849,0.03385,3,1.412773131,,,,,,,,,,,,,,,,,,,,,,,
-30,Polygon,Akwapem North,GH0604,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.041766,0.02505,3,4.397407082,,,,,,,,,,,,,,,,,,,,,,,
-31,Polygon,Akwapem South,GH0605,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.780349,0.018308,3,6.50673611,,,,,,,,,,,,,,,,,,,,,,,
-32,Polygon,Akyem Mansa,GH0606,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.286008,0.049975,3,3.433700675,,,,,,,,,,,,,,,,,,,,,,,
-41,Polygon,Asene Akroso Manso,GH0607,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.031574,0.034219,3,5.114247522,,,,,,,,,,,,,,,,,,,,,,,
-51,Polygon,Asuogyaman,GH0608,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.41725,0.062625,3,8.078942289,,,,,,,,,,,,,,,,,,,,,,,
-55,Polygon,Atiwa East,GH0609,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.437794,0.04743,3,5.570551189,,,,,,,,,,,,,,,,,,,,,,,
-56,Polygon,Atiwa West,GH0610,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.340374,0.047881,3,8.91293987,,,,,,,,,,,,,,,,,,,,,,,
-67,Polygon,Ayensuano,GH0611,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.241093,0.040793,3,2.174060202,,,,,,,,,,,,,,,,,,,,,,,
-79,Polygon,Birim Central Municipal,GH0612,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.51636,0.00871,3,6.506163932,,,,,,,,,,,,,,,,,,,,,,,
-80,Polygon,Birim North,GH0613,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.462348,0.046355,3,5.465685527,,,,,,,,,,,,,,,,,,,,,,,
-81,Polygon,Birim South,GH0614,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.045359,0.025458,3,4.842576882,,,,,,,,,,,,,,,,,,,,,,,
-97,Polygon,Denkyembour,GH0615,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.196887,0.035664,3,4.786145323,,,,,,,,,,,,,,,,,,,,,,,
-109,Polygon,Fanteakwa North,GH0616,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.403129,0.068426,3,4.489607854,,,,,,,,,,,,,,,,,,,,,,,
-110,Polygon,Fanteakwa South,GH0617,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.173331,0.021438,3,7.491573186,,,,,,,,,,,,,,,,,,,,,,,
-153,Polygon,Kwaebibirem,GH0618,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.526138,0.06565,3,3.098847322,,,,,,,,,,,,,,,,,,,,,,,
-154,Polygon,Kwahu Afram Plains North,GH0619,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,2.27254,0.19161,3,9.595592075,,,,,,,,,,,,,,,,,,,,,,,
-155,Polygon,Kwahu Afram Plains South,GH0620,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,3.031817,0.253337,3,2.679883857,,,,,,,,,,,,,,,,,,,,,,,
-156,Polygon,Kwahu East,GH0621,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.412106,0.051015,3,9.619126199,,,,,,,,,,,,,,,,,,,,,,,
-157,Polygon,Kwahu South,GH0622,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.466894,0.065091,3,0.956231191,,,,,,,,,,,,,,,,,,,,,,,
-158,Polygon,Kwahu West,GH0623,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.221733,0.032772,3,1.931049959,,,,,,,,,,,,,,,,,,,,,,,
-164,Polygon,Lower Manya,GH0624,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.092118,0.02489,3,8.5393968,,,,,,,,,,,,,,,,,,,,,,,
-176,Polygon,New Juaben North Municipal,GH0625,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.431269,0.008618,3,1.210965133,,,,,,,,,,,,,,,,,,,,,,,
-177,Polygon,New Juaben South Municipal,GH0626,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.314215,0.004439,3,4.371196512,,,,,,,,,,,,,,,,,,,,,,,
-187,Polygon,Nsawam Adoagyiri,GH0627,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.542204,0.014289,3,6.754701547,,,,,,,,,,,,,,,,,,,,,,,
-195,Polygon,Okere,GH0628,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.807229,0.025051,3,5.169192747,,,,,,,,,,,,,,,,,,,,,,,
-223,Polygon,Suhum Municipal,GH0629,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.920611,0.029307,3,1.490668311,,,,,,,,,,,,,,,,,,,,,,,
-243,Polygon,Upper Manya,GH0630,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.284892,0.07023,3,6.995201657,,,,,,,,,,,,,,,,,,,,,,,
-244,Polygon,Upper West Akim,GH0631,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.884555,0.027958,3,0.39470236,,,,,,,,,,,,,,,,,,,,,,,
-254,Polygon,West Akim,GH0632,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.009582,0.038838,3,7.478505052,,,,,,,,,,,,,,,,,,,,,,,
-258,Polygon,Yilo Krobo,GH0633,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.73871,0.039495,3,1.918873946,,,,,,,,,,,,,,,,,,,,,,,
-1,Polygon,Ablekuma Central Municipal,GH0701,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.149338,0.001155,6,8.04444438,,,,,,,,,,,,,,,,,,,,,,,
-2,Polygon,Ablekuma North Municipal,GH0702,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.25521,0.002409,6,6.662486151,,,,,,,,,,,,,,,,,,,,,,,
-3,Polygon,Ablekuma West Municipal,GH0703,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.19076,0.001029,6,4.094921298,,,,,,,,,,,,,,,,,,,,,,,
-7,Polygon,Accra Metropolis,GH0704,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.091807,0.000456,6,1.349959723,,,,,,,,,,,,,,,,,,,,,,,
-9,Polygon,Ada East,GH0705,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.908294,0.023647,6,2.559226129,,,,,,,,,,,,,,,,,,,,,,,
-10,Polygon,Ada West,GH0706,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.793171,0.026422,6,7.523383773,,,,,,,,,,,,,,,,,,,,,,,
-16,Polygon,Adenta Municipal,GH0707,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.449144,0.00637,6,8.018069231,,,,,,,,,,,,,,,,,,,,,,,
-42,Polygon,Ashaiman Municipal,GH0708,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.15978,0.001511,6,7.269868119,,,,,,,,,,,,,,,,,,,,,,,
-63,Polygon,Ayawaso Central Municipal,GH0709,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.04598,0.000124,6,4.762611022,,,,,,,,,,,,,,,,,,,,,,,
-64,Polygon,Ayawaso East Municipal,GH0710,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.094364,0.000508,6,4.111428504,,,,,,,,,,,,,,,,,,,,,,,
-65,Polygon,Ayawaso North Municipal,GH0711,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.099163,0.000399,6,8.132713164,,,,,,,,,,,,,,,,,,,,,,,
-66,Polygon,Ayawaso West,GH0712,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.325158,0.002671,6,3.610894142,,,,,,,,,,,,,,,,,,,,,,,
-111,Polygon,Ga Central Municipal,GH0713,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.335874,0.004005,6,6.498690612,,,,,,,,,,,,,,,,,,,,,,,
-112,Polygon,Ga East,GH0714,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.498868,0.007009,6,4.867142245,,,,,,,,,,,,,,,,,,,,,,,
-113,Polygon,Ga North Municipal,GH0715,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.580169,0.010178,6,9.215132847,,,,,,,,,,,,,,,,,,,,,,,
-114,Polygon,Ga South Municipal,GH0716,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.544225,0.01454,6,9.513074482,,,,,,,,,,,,,,,,,,,,,,,
-115,Polygon,Ga West Municipal,GH0717,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.84222,0.014284,6,4.266961128,,,,,,,,,,,,,,,,,,,,,,,
-141,Polygon,Korle Klottey Municipal,GH0718,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.118146,0.000798,6,8.851910306,,,,,,,,,,,,,,,,,,,,,,,
-144,Polygon,Kpone Katamanso,GH0719,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.915347,0.019601,6,7.882149984,,,,,,,,,,,,,,,,,,,,,,,
-148,Polygon,Krowor Municipal,GH0720,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.234702,0.00148,6,1.788930128,,,,,,,,,,,,,,,,,,,,,,,
-159,Polygon,La-Nkwantanang-Madina,GH0722,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.460614,0.005792,6,8.759655148,,,,,,,,,,,,,,,,,,,,,,,
-160,Polygon,La Dade-Kotopon,GH0721,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.230663,0.002947,6,2.113596746,,,,,,,,,,,,,,,,,,,,,,,
-163,Polygon,Ledzokuku Municipal,GH0723,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.215987,0.002375,6,6.118522902,,,,,,,,,,,,,,,,,,,,,,,
-178,Polygon,Ningo/Prampram,GH0724,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,1.180588,0.05081,6,9.757167285,,,,,,,,,,,,,,,,,,,,,,,
-194,Polygon,Okaikwei North Municipal,GH0725,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.261125,0.001833,6,0.859247965,,,,,,,,,,,,,,,,,,,,,,,
-215,Polygon,Shai Osudoku,GH0726,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,1.329775,0.079154,6,6.165239946,,,,,,,,,,,,,,,,,,,,,,,
-235,Polygon,Tema Metropolitan,GH0727,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.261604,0.003471,6,6.005477356,,,,,,,,,,,,,,,,,,,,,,,
-236,Polygon,Tema West Municipal,GH0728,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.310156,0.003694,6,0.332078572,,,,,,,,,,,,,,,,,,,,,,,
-252,Polygon,Weija Gbawe Municipal,GH0729,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.578686,0.013372,6,0.738195107,,,,,,,,,,,,,,,,,,,,,,,
-120,Polygon,Gushegu,GH0801,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,3.0896,0.220469,1,1.965506662,,,,,,,,,,,,,,,,,,,,,,,
-132,Polygon,Karaga,GH0802,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,3.306523,0.257341,1,2.289893422,,,,,,,,,,,,,,,,,,,,,,,
-142,Polygon,Kpandai,GH0803,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,2.04767,0.093043,1,3.26848249,,,,,,,,,,,,,,,,,,,,,,,
-150,Polygon,Kumbungu,GH0804,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,2.576586,0.127056,1,7.848048266,,,,,,,,,,,,,,,,,,,,,,,
-168,Polygon,Mion,GH0805,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,3.517795,0.223462,1,4.04631328,,,,,,,,,,,,,,,,,,,,,,,
-173,Polygon,Nanton,GH0806,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,0.981614,0.039262,1,3.638531481,,,,,,,,,,,,,,,,,,,,,,,
-174,Polygon,Nanumba North,GH0807,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,3.736667,0.185927,1,5.586845377,,,,,,,,,,,,,,,,,,,,,,,
-175,Polygon,Nanumba South,GH0808,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,3.147502,0.147003,1,4.465612186,,,,,,,,,,,,,,,,,,,,,,,
-201,Polygon,Saboba,GH0809,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,2.154758,0.144321,1,5.97333245,,,,,,,,,,,,,,,,,,,,,,,
-202,Polygon,Sagnerigu,GH0810,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,0.693199,0.016505,1,6.419551049,,,,,,,,,,,,,,,,,,,,,,,
-203,Polygon,Savelugu,GH0811,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,2.374644,0.127489,1,5.972339008,,,,,,,,,,,,,,,,,,,,,,,
-228,Polygon,Tamale Metropolitan,GH0812,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,1.371995,0.053306,1,0.890604261,,,,,,,,,,,,,,,,,,,,,,,
-232,Polygon,Tatale Sanguli,GH0813,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,2.595807,0.08967,1,5.604605398,,,,,,,,,,,,,,,,,,,,,,,
-238,Polygon,Tolon,GH0814,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,1.951378,0.111517,1,7.520048713,,,,,,,,,,,,,,,,,,,,,,,
-257,Polygon,Yendi Municipal,GH0815,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,2.193378,0.119112,1,6.656604163,,,,,,,,,,,,,,,,,,,,,,,
-260,Polygon,Zabzugu,GH0816,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,2.252012,0.090477,1,5.184667119,,,,,,,,,,,,,,,,,,,,,,,
-91,Polygon,Bunkpurugu Nakpanduri,GH0901,<Null>,<Null>,<Null>,Northern East,GH09,Ghana,GH,26.10.18,08.03.21,<Null>,1.478977,0.063558,9,6.453161253,,,,,,,,,,,,,,,,,,,,,,,
-95,Polygon,Chereponi,GH0902,<Null>,<Null>,<Null>,Northern East,GH09,Ghana,GH,26.10.18,08.03.21,<Null>,1.997524,0.113449,9,9.040233573,,,,,,,,,,,,,,,,,,,,,,,
-102,Polygon,East Mamprusi,GH0903,<Null>,<Null>,<Null>,Northern East,GH09,Ghana,GH,26.10.18,08.03.21,<Null>,2.100145,0.140996,9,0.542586414,,,,,,,,,,,,,,,,,,,,,,,
-166,Polygon,Mamprugu Moagduri,GH0904,<Null>,<Null>,<Null>,Northern East,GH09,Ghana,GH,26.10.18,08.03.21,<Null>,2.612053,0.175153,9,9.167061799,,,,,,,,,,,,,,,,,,,,,,,
-256,Polygon,West Mamprusi Municipal,GH0905,<Null>,<Null>,<Null>,Northern East,GH09,Ghana,GH,26.10.18,08.03.21,<Null>,3.258158,0.215612,9,3.791737477,,,,,,,,,,,,,,,,,,,,,,,
-259,Polygon,Yunyoo-Nasuan,GH0906,<Null>,<Null>,<Null>,Northern East,GH09,Ghana,GH,26.10.18,08.03.21,<Null>,0.869642,0.040289,9,8.538749904,,,,,,,,,,,,,,,,,,,,,,,
-76,Polygon,Biakoye,GH1001,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,2.042714,0.090576,8,8.636185979,,,,,,,,,,,,,,,,,,,,,,,
-126,Polygon,Jasikan,GH1002,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,1.369444,0.045522,8,9.652177956,,,,,,,,,,,,,,,,,,,,,,,
-131,Polygon,Kadjebi,GH1003,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,1.246328,0.05654,8,4.079279535,,,,,,,,,,,,,,,,,,,,,,,
-145,Polygon,Krachi East Municipal,GH1004,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,2.643767,0.226204,8,2.070578634,,,,,,,,,,,,,,,,,,,,,,,
-146,Polygon,Krachi Nchumuru,GH1005,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,1.79391,0.098067,8,7.161365612,,,,,,,,,,,,,,,,,,,,,,,
-147,Polygon,Krachi West,GH1006,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,1.300122,0.076187,8,2.549024257,,,,,,,,,,,,,,,,,,,,,,,
-181,Polygon,Nkwanta North,GH1007,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,1.823916,0.090185,8,9.169693556,,,,,,,,,,,,,,,,,,,,,,,
-182,Polygon,Nkwanta South Municipal,GH1008,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,2.765308,0.224282,8,6.008800263,,,,,,,,,,,,,,,,,,,,,,,
-83,Polygon,Bole,GH1101,<Null>,<Null>,<Null>,Savannah,GH11,Ghana,GH,26.10.18,08.03.21,<Null>,4.286518,0.5069,5,2.272510555,,,,,,,,,,,,,,,,,,,,,,,
-93,Polygon,Central Gonja,GH1102,<Null>,<Null>,<Null>,Savannah,GH11,Ghana,GH,26.10.18,08.03.21,<Null>,5.145096,0.621327,5,9.919133653,,,,,,,,,,,,,,,,,,,,,,,
-101,Polygon,East Gonja Municipal,GH1103,<Null>,<Null>,<Null>,Savannah,GH11,Ghana,GH,26.10.18,08.03.21,<Null>,2.212372,0.18508,5,4.113301783,,,,,,,,,,,,,,,,,,,,,,,
-184,Polygon,North East Gonja,GH1104,<Null>,<Null>,<Null>,Savannah,GH11,Ghana,GH,26.10.18,08.03.21,<Null>,5.568894,0.500425,5,0.588258929,,,,,,,,,,,,,,,,,,,,,,,
-185,Polygon,North Gonja,GH1105,<Null>,<Null>,<Null>,Savannah,GH11,Ghana,GH,26.10.18,08.03.21,<Null>,3.84009,0.399333,5,0.433849075,,,,,,,,,,,,,,,,,,,,,,,
-204,Polygon,Sawla-Tuna-Kalba,GH1106,<Null>,<Null>,<Null>,Savannah,GH11,Ghana,GH,26.10.18,08.03.21,<Null>,3.140512,0.348042,5,2.18359249,,,,,,,,,,,,,,,,,,,,,,,
-255,Polygon,West Gonja,GH1107,<Null>,<Null>,<Null>,Savannah,GH11,Ghana,GH,26.10.18,08.03.21,<Null>,3.478712,0.388158,5,5.7275913,,,,,,,,,,,,,,,,,,,,,,,
-69,Polygon,Bawku Municipal,GH1201,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.896023,0.020455,3,3.604227418,,,,,,,,,,,,,,,,,,,,,,,
-70,Polygon,Bawku West,GH1202,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,1.800731,0.088603,3,9.823663248,,,,,,,,,,,,,,,,,,,,,,,
-78,Polygon,Binduri,GH1203,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.929421,0.032415,3,9.404136345,,,,,,,,,,,,,,,,,,,,,,,
-84,Polygon,Bolga  East,GH1204,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.382252,0.005937,3,6.638006277,,,,,,,,,,,,,,,,,,,,,,,
-85,Polygon,Bolgatanga Municipal,GH1205,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.829548,0.026882,3,8.765049721,,,,,,,,,,,,,,,,,,,,,,,
-86,Polygon,Bongo,GH1206,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.88743,0.034312,3,9.311565893,,,,,,,,,,,,,,,,,,,,,,,
-89,Polygon,Builsa North,GH1207,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,1.469175,0.067483,3,5.19427785,,,,,,,,,,,,,,,,,,,,,,,
-90,Polygon,Builsa South,GH1208,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,2.16821,0.102575,3,3.530210982,,,,,,,,,,,,,,,,,,,,,,,
-116,Polygon,Garu,GH1209,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,1.071011,0.055848,3,7.573942933,,,,,,,,,,,,,,,,,,,,,,,
-133,Polygon,Kasena Nankana East,GH1210,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,1.928504,0.063421,3,0.018757561,,,,,,,,,,,,,,,,,,,,,,,
-134,Polygon,Kasena Nankana West,GH1211,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,2.149568,0.072201,3,4.131830609,,,,,,,,,,,,,,,,,,,,,,,
-170,Polygon,Nabdam,GH1212,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.750784,0.020258,3,7.381788585,,,,,,,,,,,,,,,,,,,,,,,
-200,Polygon,Pusiga,GH1213,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.808719,0.021152,3,7.173435911,,,,,,,,,,,,,,,,,,,,,,,
-227,Polygon,Talensi,GH1214,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,1.84577,0.069294,3,8.139464462,,,,,,,,,,,,,,,,,,,,,,,
-237,Polygon,Tempane,GH1215,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.865392,0.031899,3,5.721868684,,,,,,,,,,,,,,,,,,,,,,,
-96,Polygon,Daffiama Bussie Issa,GH1301,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,1.937781,0.120196,2,5.149966136,,,,,,,,,,,,,,,,,,,,,,,
-127,Polygon,Jirapa,GH1302,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,1.569176,0.098159,2,7.218456456,,,,,,,,,,,,,,,,,,,,,,,
-161,Polygon,Lambussie-Karni,GH1303,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,1.611183,0.067087,2,2.012088265,,,,,,,,,,,,,,,,,,,,,,,
-162,Polygon,Lawra,GH1304,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,1.330337,0.043553,2,5.331638819,,,,,,,,,,,,,,,,,,,,,,,
-171,Polygon,Nadowli-Kaleo,GH1305,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,1.607292,0.093406,2,2.021193109,,,,,,,,,,,,,,,,,,,,,,,
-172,Polygon,Nandom,GH1306,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,0.986234,0.033431,2,1.887529771,,,,,,,,,,,,,,,,,,,,,,,
-217,Polygon,Sissala East,GH1307,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,3.463461,0.421027,2,5.606826629,,,,,,,,,,,,,,,,,,,,,,,
-218,Polygon,Sissala West,GH1308,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,2.318707,0.169503,2,5.243369482,,,,,,,,,,,,,,,,,,,,,,,
-245,Polygon,Wa East,GH1309,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,3.265453,0.354482,2,4.819364491,,,,,,,,,,,,,,,,,,,,,,,
-246,Polygon,Wa Municipal,GH1310,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,1.177257,0.047796,2,2.230018506,,,,,,,,,,,,,,,,,,,,,,,
-247,Polygon,Wa West,GH1311,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,1.929044,0.122954,2,8.779520742,,,,,,,,,,,,,,,,,,,,,,,
-11,Polygon,Adaklu,GH1401,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.255851,0.065465,1,5.363041053,,,,,,,,,,,,,,,,,,,,,,,
-17,Polygon,Afadzato South,GH1402,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.576857,0.045238,1,1.374175217,,,,,,,,,,,,,,,,,,,,,,,
-22,Polygon,Agotime Ziope,GH1403,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.030764,0.025773,1,5.099577866,,,,,,,,,,,,,,,,,,,,,,,
-28,Polygon,Akatsi North,GH1404,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,0.950787,0.025645,1,6.585122776,,,,,,,,,,,,,,,,,,,,,,,
-29,Polygon,Akatsi South,GH1405,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.311656,0.043812,1,4.034898767,,,,,,,,,,,,,,,,,,,,,,,
-36,Polygon,Anloga,GH1406,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,0.772038,0.019256,1,5.954594005,,,,,,,,,,,,,,,,,,,,,,,
-94,Polygon,Central Tongu,GH1407,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.462467,0.055733,1,7.521834377,,,,,,,,,,,,,,,,,,,,,,,
-121,Polygon,Ho Municipal,GH1408,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.33747,0.04691,1,3.659593364,,,,,,,,,,,,,,,,,,,,,,,
-122,Polygon,Ho West,GH1409,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,2.370731,0.081963,1,4.966078158,,,,,,,,,,,,,,,,,,,,,,,
-123,Polygon,Hohoe Municipal,GH1410,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.343194,0.055993,1,6.712634776,,,,,,,,,,,,,,,,,,,,,,,
-135,Polygon,Keta Municipal,GH1411,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.009997,0.042197,1,4.256345111,,,,,,,,,,,,,,,,,,,,,,,
-136,Polygon,Ketu North,GH1412,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.022237,0.034601,1,8.474224897,,,,,,,,,,,,,,,,,,,,,,,
-137,Polygon,Ketu South,GH1413,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,0.772166,0.022689,1,3.037240915,,,,,,,,,,,,,,,,,,,,,,,
-143,Polygon,Kpando Municipal,GH1414,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,0.707574,0.025688,1,4.22434935,,,,,,,,,,,,,,,,,,,,,,,
-183,Polygon,North Dayi,GH1415,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.09212,0.03789,1,4.794267905,,,,,,,,,,,,,,,,,,,,,,,
-186,Polygon,North Tongu,GH1416,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.685053,0.092422,1,0.768458021,,,,,,,,,,,,,,,,,,,,,,,
-219,Polygon,South Dayi,GH1417,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.017016,0.029308,1,1.3245647,,,,,,,,,,,,,,,,,,,,,,,
-220,Polygon,South Tongu,GH1418,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.369692,0.052541,1,7.501989324,,,,,,,,,,,,,,,,,,,,,,,
-26,Polygon,Ahanta West Municipal,GH1501,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,1.204312,0.045202,1,7.034849732,,,,,,,,,,,,,,,,,,,,,,,
-103,Polygon,Effia Kwesimintsim Municipal,GH1502,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,0.512752,0.008551,1,1.150004714,,,,,,,,,,,,,,,,,,,,,,,
-108,Polygon,Ellembelle,GH1503,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,1.631817,0.081212,1,8.657036259,,,,,,,,,,,,,,,,,,,,,,,
-128,Polygon,Jomoro,GH1504,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,2.292776,0.121899,1,4.137900857,,,,,,,,,,,,,,,,,,,,,,,
-169,Polygon,Mpohor,GH1505,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,1.142084,0.042802,1,8.178955471,,,,,,,,,,,,,,,,,,,,,,,
-188,Polygon,Nzema East,GH1506,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,1.76193,0.088424,1,3.955570167,,,,,,,,,,,,,,,,,,,,,,,
-197,Polygon,Prestea/Huni Valley,GH1507,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,2.257185,0.147649,1,7.122748424,,,,,,,,,,,,,,,,,,,,,,,
-207,Polygon,Sekondi Takoradi Metropolis,GH1508,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,0.578452,0.00706,1,8.336117566,,,,,,,,,,,,,,,,,,,,,,,
-216,Polygon,Shama,GH1509,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,0.628685,0.015811,1,5.758064456,,,,,,,,,,,,,,,,,,,,,,,
-231,Polygon,Tarkwa Nsuaem,GH1510,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,1.603453,0.073844,1,9.805986096,,,,,,,,,,,,,,,,,,,,,,,
-248,Polygon,Wassa Amenfi Central,GH1511,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,2.511717,0.150651,1,2.63293658,,,,,,,,,,,,,,,,,,,,,,,
-249,Polygon,Wassa Amenfi East,GH1512,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,2.026315,0.127213,1,3.07931293,,,,,,,,,,,,,,,,,,,,,,,
-250,Polygon,Wassa Amenfi West,GH1513,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,2.873712,0.118286,1,4.310362877,,,,,,,,,,,,,,,,,,,,,,,
-251,Polygon,Wassa East,GH1514,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,1.976553,0.134803,1,0.569402451,,,,,,,,,,,,,,,,,,,,,,,
-37,Polygon,Aowin,GH1601,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,3.078852,0.213054,6,3.608652239,,,,,,,,,,,,,,,,,,,,,,,
-74,Polygon,Bia East,GH1602,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,1.301702,0.064076,6,6.167207154,,,,,,,,,,,,,,,,,,,,,,,
-75,Polygon,Bia West,GH1603,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,1.77447,0.105191,6,5.248871909,,,,,,,,,,,,,,,,,,,,,,,
-77,Polygon,Bibiani-Anhwiaso-Bekwai Municipal,GH1604,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,1.49488,0.068145,6,4.46332488,,,,,,,,,,,,,,,,,,,,,,,
-82,Polygon,Bodi,GH1605,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,1.393751,0.054094,6,0.301556205,,,,,,,,,,,,,,,,,,,,,,,
-130,Polygon,Juaboso,GH1606,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,2.001652,0.111905,6,6.122970893,,,,,,,,,,,,,,,,,,,,,,,
-205,Polygon,Sefwi-Wiawso,GH1608,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,1.793066,0.082649,6,3.092189308,,,,,,,,,,,,,,,,,,,,,,,
-206,Polygon,Sefwi Akontombra,GH1607,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,1.802299,0.091447,6,6.742448021,,,,,,,,,,,,,,,,,,,,,,,
-221,Polygon,Suaman,GH1609,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,0.864625,0.032667,6,7.014793845,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OBJECTID *,Shape *,admin2Name_en,admin2Pcode,admin2RefName,admin2AltName1_en,admin2AltName2_en,admin1Name_en,admin1Pcode,admin0Name_en,admin0Pcode,date,validOn,validTo,Shape_Length,Shape_Area,region_value,district_value
+49,Polygon,Asunafo North Municipal,GH0101,<Null>,<Null>,<Null>,Ahafo,GH01,Ghana,GH,26.10.18,08.03.21,<Null>,1.766499,0.115468,5,1.628178149
+50,Polygon,Asunafo South,GH0102,<Null>,<Null>,<Null>,Ahafo,GH01,Ghana,GH,26.10.18,08.03.21,<Null>,1.992593,0.075519,5,8.764650634
+52,Polygon,Asutifi North,GH0103,<Null>,<Null>,<Null>,Ahafo,GH01,Ghana,GH,26.10.18,08.03.21,<Null>,1.52901,0.076589,5,1.273071813
+53,Polygon,Asutifi South,GH0104,<Null>,<Null>,<Null>,Ahafo,GH01,Ghana,GH,26.10.18,08.03.21,<Null>,1.607569,0.048876,5,2.826447092
+229,Polygon,Tano North Municipal,GH0105,<Null>,<Null>,<Null>,Ahafo,GH01,Ghana,GH,26.10.18,08.03.21,<Null>,1.387174,0.068575,5,9.153849883
+230,Polygon,Tano South Municipal,GH0106,<Null>,<Null>,<Null>,Ahafo,GH01,Ghana,GH,26.10.18,08.03.21,<Null>,1.13154,0.040031,5,1.623852222
+12,Polygon,Adansi Akrofuom,GH0201,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.100275,0.046413,2,9.756047207
+13,Polygon,Adansi Asokwa,GH0202,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.510252,0.048659,2,5.551739261
+14,Polygon,Adansi North,GH0203,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.792272,0.021093,2,1.901240405
+15,Polygon,Adansi South,GH0204,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.596134,0.062162,2,4.673078926
+18,Polygon,Afigya Kwabre North,GH0205,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.755655,0.015282,2,3.282239957
+19,Polygon,Afigya Kwabre South,GH0206,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.667102,0.018272,2,1.370234608
+23,Polygon,Ahafo Ano North,GH0207,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.228005,0.04857,2,3.605201668
+24,Polygon,Ahafo Ano South East,GH0208,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.285119,0.056133,2,7.499948225
+25,Polygon,Ahafo Ano South West,GH0209,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.375148,0.041295,2,1.584699677
+33,Polygon,Amansie Central,GH0210,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.81951,0.069429,2,3.812927504
+34,Polygon,Amansie South,GH0211,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.487674,0.048496,2,0.322782881
+35,Polygon,Amansie West,GH0212,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.354173,0.052149,2,4.553877329
+38,Polygon,Asante Akim Central Municipal,GH0213,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.967704,0.024551,2,7.595411726
+39,Polygon,Asante Akim North,GH0214,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,2.084084,0.092119,2,2.475766143
+40,Polygon,Asante Akim South,GH0215,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.804452,0.094316,2,1.218039138
+44,Polygon,Asokore Mampong Municipal,GH0216,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.225216,0.001943,2,4.264937044
+45,Polygon,Asokwa  Municipal,GH0217,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.21449,0.002194,2,8.100217106
+57,Polygon,Atwima Kwanwoma,GH0218,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.792084,0.02057,2,8.869525166
+58,Polygon,Atwima Mponua,GH0219,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,2.602795,0.153979,2,1.850385288
+59,Polygon,Atwima Nwabiagya North,GH0220,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.746633,0.017399,2,1.076195694
+60,Polygon,Atwima Nwabiagya South,GH0221,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.958894,0.029969,2,3.781771884
+71,Polygon,Bekwai Municipal,GH0222,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.259927,0.04378,2,6.508287177
+87,Polygon,Bosome Freho,GH0223,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.548999,0.046484,2,2.794206631
+88,Polygon,Bosomtwe,GH0224,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.939224,0.034564,2,1.106483134
+105,Polygon,Ejisu Municipal,GH0225,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.298109,0.033648,2,2.823227414
+106,Polygon,Ejura-Sekyedumase,GH0226,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.883941,0.109806,2,9.288678479
+129,Polygon,Juaben Municipal,GH0227,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.75763,0.014007,2,0.050205503
+149,Polygon,Kumasi Metropolitan,GH0228,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.188733,0.00177,2,2.138831961
+151,Polygon,Kwabre East,GH0229,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.48463,0.010067,2,3.484302875
+152,Polygon,Kwadaso Municipal,GH0230,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.396433,0.005244,2,9.842883711
+165,Polygon,Mampong Municipal,GH0231,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.355819,0.054887,2,0.701210997
+189,Polygon,Obuasi East,GH0232,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.351262,0.006128,2,9.985665334
+190,Polygon,Obuasi Municipal,GH0233,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.541096,0.011908,2,5.5365795
+191,Polygon,Offinso Municipal,GH0234,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.233206,0.047966,2,0.972438743
+192,Polygon,Offinso North,GH0235,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.970837,0.07751,2,0.989163368
+193,Polygon,Oforikrom Municipal,GH0236,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.311992,0.003708,2,6.587941828
+196,Polygon,Old Tafo Municipal,GH0237,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.254141,0.002378,2,0.130079017
+208,Polygon,Sekyere Afram Plains North,GH0238,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,3.943415,0.288754,2,2.104856594
+209,Polygon,Sekyere Central,GH0239,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,2.060053,0.133604,2,1.707304953
+210,Polygon,Sekyere East,GH0240,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.794588,0.019563,2,0.478887231
+211,Polygon,Sekyere Kumawu,GH0241,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.332959,0.047181,2,0.440010428
+212,Polygon,Sekyere South,GH0242,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,1.050891,0.034097,2,5.109852468
+222,Polygon,Suame Municipal,GH0243,<Null>,<Null>,<Null>,Ashanti,GH02,Ghana,GH,26.10.18,08.03.21,<Null>,0.253474,0.002261,2,1.089236782
+68,Polygon,Banda,GH0301,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,2.588314,0.188584,7,8.328178028
+72,Polygon,Berekum East Municipal,GH0302,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.113233,0.037846,7,3.954070677
+73,Polygon,Berekum West,GH0303,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.050724,0.032876,7,4.757514654
+98,Polygon,Dormaa East,GH0304,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.041038,0.046684,7,9.499286715
+99,Polygon,Dormaa Municipal,GH0305,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.714024,0.099008,7,1.559412607
+100,Polygon,Dormaa West,GH0306,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.015581,0.031122,7,5.90011585
+124,Polygon,Jaman North,GH0307,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.443548,0.084486,7,7.286747326
+125,Polygon,Jaman South Municipal,GH0308,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.181887,0.061861,7,3.216313309
+224,Polygon,Sunyani Municipal,GH0309,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.253477,0.041482,7,2.398411386
+225,Polygon,Sunyani West,GH0310,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.750297,0.086753,7,2.07948388
+226,Polygon,Tain,GH0311,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,1.975968,0.150018,7,7.073415733
+253,Polygon,Wenchi Municipal,GH0312,<Null>,<Null>,<Null>,Bono,GH03,Ghana,GH,26.10.18,08.03.21,<Null>,2.115814,0.093872,7,8.765928056
+54,Polygon,Atebubu Amantin,GH0401,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,2.531259,0.215176,4,1.85294741
+138,Polygon,Kintampo North Municipal,GH0402,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,3.355246,0.401437,4,9.305330158
+139,Polygon,Kintampo South,GH0403,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,2.056578,0.124164,4,8.085327099
+179,Polygon,Nkoranza North,GH0404,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,1.896073,0.113674,4,7.192333703
+180,Polygon,Nkoranza South,GH0405,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,1.391923,0.075597,4,2.32636012
+198,Polygon,Pru East,GH0406,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,1.798372,0.135544,4,9.499942387
+199,Polygon,Pru West,GH0407,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,1.827647,0.128731,4,6.431614964
+213,Polygon,Sene East,GH0408,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,3.296603,0.360019,4,8.28056258
+214,Polygon,Sene West,GH0409,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,2.800573,0.267511,4,3.594781627
+233,Polygon,Techiman Municipal,GH0410,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,1.138358,0.05318,4,2.812989638
+234,Polygon,Techiman North,GH0411,<Null>,<Null>,<Null>,Bono East,GH04,Ghana,GH,26.10.18,08.03.21,<Null>,0.969466,0.031929,4,4.66658962
+6,Polygon,Abura-Asebu-Kwamankese,GH0501,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.206454,0.030763,1,7.875793533
+20,Polygon,Agona East,GH0502,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.760285,0.026731,1,9.617710479
+21,Polygon,Agona West Municipal,GH0503,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.966486,0.029071,1,7.26189914
+27,Polygon,Ajumako-Enyan-Essiam,GH0504,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.163009,0.042569,1,9.064765251
+43,Polygon,Asikuma-Odoben-Brakwa,GH0505,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.227706,0.063121,1,9.230261838
+46,Polygon,Assin Fosu,GH0506,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.831952,0.022779,1,8.296495394
+47,Polygon,Assin North,GH0507,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.698386,0.059275,1,6.952550062
+48,Polygon,Assin South,GH0508,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.521507,0.089848,1,0.534250148
+61,Polygon,Awutu Senya,GH0509,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.881995,0.019978,1,2.363894245
+62,Polygon,Awutu Senya East,GH0510,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.581838,0.008794,1,4.568831643
+92,Polygon,Cape Coast Metropolitan,GH0511,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.633246,0.009962,1,3.948105664
+104,Polygon,Effutu Municipal,GH0512,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.388769,0.006965,1,7.833274729
+107,Polygon,Ekumfi,GH0513,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.719512,0.022568,1,5.387111002
+117,Polygon,Gomoa Central,GH0514,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.518021,0.009903,1,3.260828048
+118,Polygon,Gomoa East,GH0515,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.344693,0.044071,1,3.148056136
+119,Polygon,Gomoa West,GH0516,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.952189,0.027507,1,4.787202607
+140,Polygon,Komenda-Edina-Eguafo-Abirem Municipal,GH0517,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,0.859382,0.036922,1,0.093948368
+167,Polygon,Mfantseman Municipal,GH0518,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.064279,0.024523,1,1.603294442
+239,Polygon,Twifo Atti-Morkwa,GH0519,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.535576,0.07806,1,0.762213134
+240,Polygon,Twifo Hemang Lower Denkyira,GH0520,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.37578,0.046985,1,2.136073897
+241,Polygon,Upper Denkyira East Municipal,GH0521,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.435575,0.04098,1,5.073344177
+242,Polygon,Upper Denkyira West,GH0522,<Null>,<Null>,<Null>,Central,GH05,Ghana,GH,26.10.18,08.03.21,<Null>,1.524246,0.047325,1,4.550746651
+4,Polygon,Abuakwa North,GH0601,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.532117,0.012974,3,2.967883016
+5,Polygon,Abuakwa South,GH0602,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.891112,0.028549,3,5.555440195
+8,Polygon,Achiase,GH0603,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.979849,0.03385,3,1.412773131
+30,Polygon,Akwapem North,GH0604,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.041766,0.02505,3,4.397407082
+31,Polygon,Akwapem South,GH0605,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.780349,0.018308,3,6.50673611
+32,Polygon,Akyem Mansa,GH0606,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.286008,0.049975,3,3.433700675
+41,Polygon,Asene Akroso Manso,GH0607,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.031574,0.034219,3,5.114247522
+51,Polygon,Asuogyaman,GH0608,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.41725,0.062625,3,8.078942289
+55,Polygon,Atiwa East,GH0609,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.437794,0.04743,3,5.570551189
+56,Polygon,Atiwa West,GH0610,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.340374,0.047881,3,8.91293987
+67,Polygon,Ayensuano,GH0611,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.241093,0.040793,3,2.174060202
+79,Polygon,Birim Central Municipal,GH0612,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.51636,0.00871,3,6.506163932
+80,Polygon,Birim North,GH0613,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.462348,0.046355,3,5.465685527
+81,Polygon,Birim South,GH0614,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.045359,0.025458,3,4.842576882
+97,Polygon,Denkyembour,GH0615,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.196887,0.035664,3,4.786145323
+109,Polygon,Fanteakwa North,GH0616,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.403129,0.068426,3,4.489607854
+110,Polygon,Fanteakwa South,GH0617,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.173331,0.021438,3,7.491573186
+153,Polygon,Kwaebibirem,GH0618,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.526138,0.06565,3,3.098847322
+154,Polygon,Kwahu Afram Plains North,GH0619,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,2.27254,0.19161,3,9.595592075
+155,Polygon,Kwahu Afram Plains South,GH0620,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,3.031817,0.253337,3,2.679883857
+156,Polygon,Kwahu East,GH0621,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.412106,0.051015,3,9.619126199
+157,Polygon,Kwahu South,GH0622,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.466894,0.065091,3,0.956231191
+158,Polygon,Kwahu West,GH0623,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.221733,0.032772,3,1.931049959
+164,Polygon,Lower Manya,GH0624,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.092118,0.02489,3,8.5393968
+176,Polygon,New Juaben North Municipal,GH0625,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.431269,0.008618,3,1.210965133
+177,Polygon,New Juaben South Municipal,GH0626,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.314215,0.004439,3,4.371196512
+187,Polygon,Nsawam Adoagyiri,GH0627,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.542204,0.014289,3,6.754701547
+195,Polygon,Okere,GH0628,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.807229,0.025051,3,5.169192747
+223,Polygon,Suhum Municipal,GH0629,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.920611,0.029307,3,1.490668311
+243,Polygon,Upper Manya,GH0630,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.284892,0.07023,3,6.995201657
+244,Polygon,Upper West Akim,GH0631,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,0.884555,0.027958,3,0.39470236
+254,Polygon,West Akim,GH0632,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.009582,0.038838,3,7.478505052
+258,Polygon,Yilo Krobo,GH0633,<Null>,<Null>,<Null>,Eastern,GH06,Ghana,GH,26.10.18,08.03.21,<Null>,1.73871,0.039495,3,1.918873946
+1,Polygon,Ablekuma Central Municipal,GH0701,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.149338,0.001155,6,8.04444438
+2,Polygon,Ablekuma North Municipal,GH0702,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.25521,0.002409,6,6.662486151
+3,Polygon,Ablekuma West Municipal,GH0703,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.19076,0.001029,6,4.094921298
+7,Polygon,Accra Metropolis,GH0704,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.091807,0.000456,6,1.349959723
+9,Polygon,Ada East,GH0705,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.908294,0.023647,6,2.559226129
+10,Polygon,Ada West,GH0706,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.793171,0.026422,6,7.523383773
+16,Polygon,Adenta Municipal,GH0707,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.449144,0.00637,6,8.018069231
+42,Polygon,Ashaiman Municipal,GH0708,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.15978,0.001511,6,7.269868119
+63,Polygon,Ayawaso Central Municipal,GH0709,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.04598,0.000124,6,4.762611022
+64,Polygon,Ayawaso East Municipal,GH0710,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.094364,0.000508,6,4.111428504
+65,Polygon,Ayawaso North Municipal,GH0711,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.099163,0.000399,6,8.132713164
+66,Polygon,Ayawaso West,GH0712,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.325158,0.002671,6,3.610894142
+111,Polygon,Ga Central Municipal,GH0713,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.335874,0.004005,6,6.498690612
+112,Polygon,Ga East,GH0714,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.498868,0.007009,6,4.867142245
+113,Polygon,Ga North Municipal,GH0715,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.580169,0.010178,6,9.215132847
+114,Polygon,Ga South Municipal,GH0716,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.544225,0.01454,6,9.513074482
+115,Polygon,Ga West Municipal,GH0717,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.84222,0.014284,6,4.266961128
+141,Polygon,Korle Klottey Municipal,GH0718,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.118146,0.000798,6,8.851910306
+144,Polygon,Kpone Katamanso,GH0719,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.915347,0.019601,6,7.882149984
+148,Polygon,Krowor Municipal,GH0720,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.234702,0.00148,6,1.788930128
+159,Polygon,La-Nkwantanang-Madina,GH0722,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.460614,0.005792,6,8.759655148
+160,Polygon,La Dade-Kotopon,GH0721,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.230663,0.002947,6,2.113596746
+163,Polygon,Ledzokuku Municipal,GH0723,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.215987,0.002375,6,6.118522902
+178,Polygon,Ningo/Prampram,GH0724,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,1.180588,0.05081,6,9.757167285
+194,Polygon,Okaikwei North Municipal,GH0725,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.261125,0.001833,6,0.859247965
+215,Polygon,Shai Osudoku,GH0726,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,1.329775,0.079154,6,6.165239946
+235,Polygon,Tema Metropolitan,GH0727,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.261604,0.003471,6,6.005477356
+236,Polygon,Tema West Municipal,GH0728,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.310156,0.003694,6,0.332078572
+252,Polygon,Weija Gbawe Municipal,GH0729,<Null>,<Null>,<Null>,Greater Accra,GH07,Ghana,GH,26.10.18,08.03.21,<Null>,0.578686,0.013372,6,0.738195107
+120,Polygon,Gushegu,GH0801,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,3.0896,0.220469,1,1.965506662
+132,Polygon,Karaga,GH0802,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,3.306523,0.257341,1,2.289893422
+142,Polygon,Kpandai,GH0803,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,2.04767,0.093043,1,3.26848249
+150,Polygon,Kumbungu,GH0804,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,2.576586,0.127056,1,7.848048266
+168,Polygon,Mion,GH0805,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,3.517795,0.223462,1,4.04631328
+173,Polygon,Nanton,GH0806,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,0.981614,0.039262,1,3.638531481
+174,Polygon,Nanumba North,GH0807,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,3.736667,0.185927,1,5.586845377
+175,Polygon,Nanumba South,GH0808,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,3.147502,0.147003,1,4.465612186
+201,Polygon,Saboba,GH0809,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,2.154758,0.144321,1,5.97333245
+202,Polygon,Sagnerigu,GH0810,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,0.693199,0.016505,1,6.419551049
+203,Polygon,Savelugu,GH0811,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,2.374644,0.127489,1,5.972339008
+228,Polygon,Tamale Metropolitan,GH0812,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,1.371995,0.053306,1,0.890604261
+232,Polygon,Tatale Sanguli,GH0813,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,2.595807,0.08967,1,5.604605398
+238,Polygon,Tolon,GH0814,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,1.951378,0.111517,1,7.520048713
+257,Polygon,Yendi Municipal,GH0815,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,2.193378,0.119112,1,6.656604163
+260,Polygon,Zabzugu,GH0816,<Null>,<Null>,<Null>,Northern,GH08,Ghana,GH,26.10.18,08.03.21,<Null>,2.252012,0.090477,1,5.184667119
+91,Polygon,Bunkpurugu Nakpanduri,GH0901,<Null>,<Null>,<Null>,Northern East,GH09,Ghana,GH,26.10.18,08.03.21,<Null>,1.478977,0.063558,9,6.453161253
+95,Polygon,Chereponi,GH0902,<Null>,<Null>,<Null>,Northern East,GH09,Ghana,GH,26.10.18,08.03.21,<Null>,1.997524,0.113449,9,9.040233573
+102,Polygon,East Mamprusi,GH0903,<Null>,<Null>,<Null>,Northern East,GH09,Ghana,GH,26.10.18,08.03.21,<Null>,2.100145,0.140996,9,0.542586414
+166,Polygon,Mamprugu Moagduri,GH0904,<Null>,<Null>,<Null>,Northern East,GH09,Ghana,GH,26.10.18,08.03.21,<Null>,2.612053,0.175153,9,9.167061799
+256,Polygon,West Mamprusi Municipal,GH0905,<Null>,<Null>,<Null>,Northern East,GH09,Ghana,GH,26.10.18,08.03.21,<Null>,3.258158,0.215612,9,3.791737477
+259,Polygon,Yunyoo-Nasuan,GH0906,<Null>,<Null>,<Null>,Northern East,GH09,Ghana,GH,26.10.18,08.03.21,<Null>,0.869642,0.040289,9,8.538749904
+76,Polygon,Biakoye,GH1001,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,2.042714,0.090576,8,8.636185979
+126,Polygon,Jasikan,GH1002,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,1.369444,0.045522,8,9.652177956
+131,Polygon,Kadjebi,GH1003,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,1.246328,0.05654,8,4.079279535
+145,Polygon,Krachi East Municipal,GH1004,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,2.643767,0.226204,8,2.070578634
+146,Polygon,Krachi Nchumuru,GH1005,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,1.79391,0.098067,8,7.161365612
+147,Polygon,Krachi West,GH1006,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,1.300122,0.076187,8,2.549024257
+181,Polygon,Nkwanta North,GH1007,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,1.823916,0.090185,8,9.169693556
+182,Polygon,Nkwanta South Municipal,GH1008,<Null>,<Null>,<Null>,Oti,GH10,Ghana,GH,26.10.18,08.03.21,<Null>,2.765308,0.224282,8,6.008800263
+83,Polygon,Bole,GH1101,<Null>,<Null>,<Null>,Savannah,GH11,Ghana,GH,26.10.18,08.03.21,<Null>,4.286518,0.5069,5,2.272510555
+93,Polygon,Central Gonja,GH1102,<Null>,<Null>,<Null>,Savannah,GH11,Ghana,GH,26.10.18,08.03.21,<Null>,5.145096,0.621327,5,9.919133653
+101,Polygon,East Gonja Municipal,GH1103,<Null>,<Null>,<Null>,Savannah,GH11,Ghana,GH,26.10.18,08.03.21,<Null>,2.212372,0.18508,5,4.113301783
+184,Polygon,North East Gonja,GH1104,<Null>,<Null>,<Null>,Savannah,GH11,Ghana,GH,26.10.18,08.03.21,<Null>,5.568894,0.500425,5,0.588258929
+185,Polygon,North Gonja,GH1105,<Null>,<Null>,<Null>,Savannah,GH11,Ghana,GH,26.10.18,08.03.21,<Null>,3.84009,0.399333,5,0.433849075
+204,Polygon,Sawla-Tuna-Kalba,GH1106,<Null>,<Null>,<Null>,Savannah,GH11,Ghana,GH,26.10.18,08.03.21,<Null>,3.140512,0.348042,5,2.18359249
+255,Polygon,West Gonja,GH1107,<Null>,<Null>,<Null>,Savannah,GH11,Ghana,GH,26.10.18,08.03.21,<Null>,3.478712,0.388158,5,5.7275913
+69,Polygon,Bawku Municipal,GH1201,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.896023,0.020455,3,3.604227418
+70,Polygon,Bawku West,GH1202,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,1.800731,0.088603,3,9.823663248
+78,Polygon,Binduri,GH1203,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.929421,0.032415,3,9.404136345
+84,Polygon,Bolga  East,GH1204,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.382252,0.005937,3,6.638006277
+85,Polygon,Bolgatanga Municipal,GH1205,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.829548,0.026882,3,8.765049721
+86,Polygon,Bongo,GH1206,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.88743,0.034312,3,9.311565893
+89,Polygon,Builsa North,GH1207,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,1.469175,0.067483,3,5.19427785
+90,Polygon,Builsa South,GH1208,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,2.16821,0.102575,3,3.530210982
+116,Polygon,Garu,GH1209,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,1.071011,0.055848,3,7.573942933
+133,Polygon,Kasena Nankana East,GH1210,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,1.928504,0.063421,3,0.018757561
+134,Polygon,Kasena Nankana West,GH1211,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,2.149568,0.072201,3,4.131830609
+170,Polygon,Nabdam,GH1212,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.750784,0.020258,3,7.381788585
+200,Polygon,Pusiga,GH1213,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.808719,0.021152,3,7.173435911
+227,Polygon,Talensi,GH1214,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,1.84577,0.069294,3,8.139464462
+237,Polygon,Tempane,GH1215,<Null>,<Null>,<Null>,Upper East,GH12,Ghana,GH,26.10.18,08.03.21,<Null>,0.865392,0.031899,3,5.721868684
+96,Polygon,Daffiama Bussie Issa,GH1301,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,1.937781,0.120196,2,5.149966136
+127,Polygon,Jirapa,GH1302,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,1.569176,0.098159,2,7.218456456
+161,Polygon,Lambussie-Karni,GH1303,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,1.611183,0.067087,2,2.012088265
+162,Polygon,Lawra,GH1304,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,1.330337,0.043553,2,5.331638819
+171,Polygon,Nadowli-Kaleo,GH1305,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,1.607292,0.093406,2,2.021193109
+172,Polygon,Nandom,GH1306,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,0.986234,0.033431,2,1.887529771
+217,Polygon,Sissala East,GH1307,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,3.463461,0.421027,2,5.606826629
+218,Polygon,Sissala West,GH1308,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,2.318707,0.169503,2,5.243369482
+245,Polygon,Wa East,GH1309,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,3.265453,0.354482,2,4.819364491
+246,Polygon,Wa Municipal,GH1310,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,1.177257,0.047796,2,2.230018506
+247,Polygon,Wa West,GH1311,<Null>,<Null>,<Null>,Upper West,GH13,Ghana,GH,26.10.18,08.03.21,<Null>,1.929044,0.122954,2,8.779520742
+11,Polygon,Adaklu,GH1401,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.255851,0.065465,1,5.363041053
+17,Polygon,Afadzato South,GH1402,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.576857,0.045238,1,1.374175217
+22,Polygon,Agotime Ziope,GH1403,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.030764,0.025773,1,5.099577866
+28,Polygon,Akatsi North,GH1404,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,0.950787,0.025645,1,6.585122776
+29,Polygon,Akatsi South,GH1405,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.311656,0.043812,1,4.034898767
+36,Polygon,Anloga,GH1406,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,0.772038,0.019256,1,5.954594005
+94,Polygon,Central Tongu,GH1407,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.462467,0.055733,1,7.521834377
+121,Polygon,Ho Municipal,GH1408,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.33747,0.04691,1,3.659593364
+122,Polygon,Ho West,GH1409,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,2.370731,0.081963,1,4.966078158
+123,Polygon,Hohoe Municipal,GH1410,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.343194,0.055993,1,6.712634776
+135,Polygon,Keta Municipal,GH1411,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.009997,0.042197,1,4.256345111
+136,Polygon,Ketu North,GH1412,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.022237,0.034601,1,8.474224897
+137,Polygon,Ketu South,GH1413,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,0.772166,0.022689,1,3.037240915
+143,Polygon,Kpando Municipal,GH1414,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,0.707574,0.025688,1,4.22434935
+183,Polygon,North Dayi,GH1415,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.09212,0.03789,1,4.794267905
+186,Polygon,North Tongu,GH1416,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.685053,0.092422,1,0.768458021
+219,Polygon,South Dayi,GH1417,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.017016,0.029308,1,1.3245647
+220,Polygon,South Tongu,GH1418,<Null>,<Null>,<Null>,Volta,GH14,Ghana,GH,26.10.18,08.03.21,<Null>,1.369692,0.052541,1,7.501989324
+26,Polygon,Ahanta West Municipal,GH1501,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,1.204312,0.045202,1,7.034849732
+103,Polygon,Effia Kwesimintsim Municipal,GH1502,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,0.512752,0.008551,1,1.150004714
+108,Polygon,Ellembelle,GH1503,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,1.631817,0.081212,1,8.657036259
+128,Polygon,Jomoro,GH1504,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,2.292776,0.121899,1,4.137900857
+169,Polygon,Mpohor,GH1505,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,1.142084,0.042802,1,8.178955471
+188,Polygon,Nzema East,GH1506,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,1.76193,0.088424,1,3.955570167
+197,Polygon,Prestea/Huni Valley,GH1507,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,2.257185,0.147649,1,7.122748424
+207,Polygon,Sekondi Takoradi Metropolis,GH1508,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,0.578452,0.00706,1,8.336117566
+216,Polygon,Shama,GH1509,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,0.628685,0.015811,1,5.758064456
+231,Polygon,Tarkwa Nsuaem,GH1510,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,1.603453,0.073844,1,9.805986096
+248,Polygon,Wassa Amenfi Central,GH1511,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,2.511717,0.150651,1,2.63293658
+249,Polygon,Wassa Amenfi East,GH1512,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,2.026315,0.127213,1,3.07931293
+250,Polygon,Wassa Amenfi West,GH1513,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,2.873712,0.118286,1,4.310362877
+251,Polygon,Wassa East,GH1514,<Null>,<Null>,<Null>,Western,GH15,Ghana,GH,26.10.18,08.03.21,<Null>,1.976553,0.134803,1,0.569402451
+37,Polygon,Aowin,GH1601,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,3.078852,0.213054,6,3.608652239
+74,Polygon,Bia East,GH1602,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,1.301702,0.064076,6,6.167207154
+75,Polygon,Bia West,GH1603,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,1.77447,0.105191,6,5.248871909
+77,Polygon,Bibiani-Anhwiaso-Bekwai Municipal,GH1604,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,1.49488,0.068145,6,4.46332488
+82,Polygon,Bodi,GH1605,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,1.393751,0.054094,6,0.301556205
+130,Polygon,Juaboso,GH1606,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,2.001652,0.111905,6,6.122970893
+205,Polygon,Sefwi-Wiawso,GH1608,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,1.793066,0.082649,6,3.092189308
+206,Polygon,Sefwi Akontombra,GH1607,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,1.802299,0.091447,6,6.742448021
+221,Polygon,Suaman,GH1609,<Null>,<Null>,<Null>,Western North,GH16,Ghana,GH,26.10.18,08.03.21,<Null>,0.864625,0.032667,6,7.014793845
