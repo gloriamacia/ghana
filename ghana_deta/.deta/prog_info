@@ -1,0 +1,1 @@
+{"id":"17f72e64-552d-4e62-a794-43962282ca60","space":39222,"runtime":"python3.9","name":"ghana_deta","path":"psi09o","project":"a00v1pne","account":"144798365827","region":"eu-central-1","deps":["flask"],"envs":null,"public":true,"log_level":"off","cron":""}
